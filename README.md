@@ -1,2 +1,3 @@
-# YoutuberStage
-Coding by @HummelSvem
+# Youtuber Stage
+
+# Plugin by HummelSvem

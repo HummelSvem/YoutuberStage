@@ -1,0 +1,12 @@
+name: YouTuberStage
+main: HummelSvem\Stage
+api: 3.0.0-ALPHA12
+author: HummelSvem
+version: 1.0
+commands:
+   stage:
+      usage: /stage <args>
+      description: Main Command
+permissions:
+    stage.youtube:
+        description: Main Permission for the Stage Plugin
